@@ -14,6 +14,6 @@
             android:id="@+id/text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Take notes fragment" />
+            android:text="Take notes fragment / idea" />
 
 </TableLayout>
