@@ -44,7 +44,7 @@ public class ShakeFragment extends Fragment {
 				RelativeLayout.LayoutParams.WRAP_CONTENT);
 		margin.height = 220;
 		margin.width = 220;
-		margin.setMargins(325, 1500, ¨0, 0);
+		margin.setMargins(325, 1500, 0, 0);
 		firstBall.setLayoutParams(margin);
 
 		RelativeLayout.LayoutParams marginSecond = new RelativeLayout.LayoutParams(
